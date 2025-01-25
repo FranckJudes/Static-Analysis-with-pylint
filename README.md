@@ -1,4 +1,4 @@
-# README :Analyse Statique du Code Python avec Pylint
+# Analyse Statique du Code Python avec Pylint
 
 Ce document explique comment analyser, corriger et rendre un code Python propre et conforme aux bonnes pratiques à l'aide de l'outil **Pylint**. Nous allons illustrer cela à l'aide de deux fichiers :
 
