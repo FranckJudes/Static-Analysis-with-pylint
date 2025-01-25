@@ -1,0 +1,8 @@
+[BASIC]
+; variable-rgx=[a-z_][a-z0-9_]{2,30}$  # Exemple : variables entre 3 et 30 caractères
+argument-rgx=[a-z][a-z0-9_]{2,30}$
+
+[MESSAGES CONTROL]
+disable=
+    missing-docstring,  # Désactive l'obligation des docstrings
+    no-member           # Utile pour ignorer des erreurs spécifiques à Django

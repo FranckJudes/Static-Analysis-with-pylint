@@ -1,0 +1,18 @@
+************* Module solve_no_correct
+solve_no_correct.py:20:0: C0304: Final newline missing (missing-final-newline)
+solve_no_correct.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+solve_no_correct.py:3:0: C0116: Missing function or method docstring (missing-function-docstring)
+solve_no_correct.py:3:19: W0621: Redefining name 'coeff_a' from outer scope (line 16) (redefined-outer-name)
+solve_no_correct.py:3:28: W0621: Redefining name 'coeff_b' from outer scope (line 17) (redefined-outer-name)
+solve_no_correct.py:3:37: W0621: Redefining name 'coeff_c' from outer scope (line 18) (redefined-outer-name)
+solve_no_correct.py:5:4: R1705: Unnecessary "elif" after "return", remove the leading "el" from "elif" (no-else-return)
+solve_no_correct.py:8:18: W0101: Unreachable code (unreachable)
+solve_no_correct.py:8:18: W0104: Statement seems to have no effect (pointless-statement)
+solve_no_correct.py:8:18: C0321: More than one statement on a single line (multiple-statements)
+solve_no_correct.py:16:0: C0103: Constant name "coeff_a" doesn't conform to UPPER_CASE naming style (invalid-name)
+solve_no_correct.py:17:0: C0103: Constant name "coeff_b" doesn't conform to UPPER_CASE naming style (invalid-name)
+solve_no_correct.py:18:0: C0103: Constant name "coeff_c" doesn't conform to UPPER_CASE naming style (invalid-name)
+
+------------------------------------------------------------------
+Your code has been rated at 2.35/10 (previous run: 2.35/10, +0.00)
+
